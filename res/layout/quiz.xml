@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="200sp"
+        android:padding="15dp"
+        android:text="Question sdd sd sd das dasd dasd asda das ddasfsdfds sdfdsfsdf fdsfds sdf dsfdsfsd fdsf sd sdf fsfs df  v long???"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
+        android:textSize="26sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="299dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/buttonshape"
+        android:padding="10dp"
+        android:text="Option1"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="299dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/buttonshape"
+        android:padding="10dp"
+        android:text="Option2"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="299dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/buttonshape"
+        android:padding="10dp"
+        android:text="Option3"
+        android:textColor="#ffffff" />
+
+     <Button
+         android:id="@+id/button4"
+         android:layout_width="299dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:background="@drawable/buttonshape"
+         android:padding="10dp"
+         android:text="Option4"
+         android:textColor="#ffffff" />
+ 
+</LinearLayout>
